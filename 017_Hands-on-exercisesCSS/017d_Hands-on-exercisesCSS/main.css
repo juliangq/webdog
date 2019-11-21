@@ -1,0 +1,11 @@
+div {
+
+width: 400px;
+height: 200px;
+background-color: red;
+    border-radius: 50px;
+    border: groove 20px tomato;
+    background-image: url("../../011_Hands-on-exercise/011c_hands-on-exercise/cute-puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

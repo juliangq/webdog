@@ -1,0 +1,26 @@
+body {
+    font-size: 36px;
+    text-align: center;
+}
+
+[target="_blank"] {
+    color: red;
+}
+
+[target=_self]
+{
+    border: dot-dash;
+    border-radius: 100px;
+    color: deeppink;
+    background-color: aqua ;
+}
+
+[id]
+{
+    padding: 20px;
+    margin: 10px;
+    border: orange dashed 10px;
+    box-sizing: border-box;
+
+
+}

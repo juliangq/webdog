@@ -1,0 +1,24 @@
+html{
+    background: #00939F;
+}
+
+body{
+    width: 60%;
+    margin: 0 auto;
+    background-color: #00C957;
+    border: solid black
+}
+#primary{
+    color: #0266C8;
+}
+
+#secondary {
+    color: #F90101;
+}
+img{
+    margin: 0px auto;
+    border: gold ridge 10px;
+    border-radius: 100%;
+    display: block;
+}
+

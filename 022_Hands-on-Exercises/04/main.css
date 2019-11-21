@@ -1,0 +1,7 @@
+a {font-size: 50px}
+
+
+a:link {color:blue}
+a:visited {color:rosybrown}
+a:hover {color:limegreen}
+a:active { color: deeppink}
