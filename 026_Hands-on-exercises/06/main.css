@@ -1,0 +1,12 @@
+p {
+    text-shadow: 1px 1px 5px limegreen;
+    font-size: 5rem;
+    color: red;
+    text-align: center;
+}
+
+
+div {
+    box-sizing: border-box;
+    border: 1px dashed blueviolet;
+}

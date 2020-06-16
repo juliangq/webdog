@@ -1,0 +1,25 @@
+
+ul {
+    list-style: none;
+}
+
+li {
+    border: 2px solid #ff6978;
+    border-radius: 50px;
+    display: inlingite-block;
+    font-size: 2vw;
+    margin: 5px;
+}
+
+
+li:hover{
+    background-color: lightgrey;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 5px;
+    display: inline-block;
+
+}
